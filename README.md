@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @lorddaffy
+- 👋 Hi, I’m Muhammad Farouk
+- Senior Software Tester, Who found his passion in Data Engineering and enjoys solving Data Engineering problems, Would like to continue and build my career in Data engineering 👀
 - 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning Data engineering
