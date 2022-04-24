@@ -8,8 +8,9 @@
 
 
 - 👋 Hi, I’m Muhammad Farouk
-- Senior Software Tester, Who found his passion in Data Engineering and enjoys solving Data Engineering problems, Would like to continue and build my career in Data engineering 👀
+- Software Automation Engineer, Who found his passion in Data Engineering and enjoys solving Data Engineering problems, Would like to continue and build my career in Data engineering  👀
 - 📫 How to reach me **muhammadfarouk2394@gmail.com**
+- [Linkedin](www.linkedin.com/in/muhammad-farouk-82086b178)
 
 
 
