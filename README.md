@@ -19,7 +19,8 @@
 - <span style="color: blue;">python</span>
 - <span style="color: blue;">scala</span>
 - <span style="color: blue;">Bash</span>
-- <span style="color: red;">Hadoop - Hbase - HDFS - Spark - Tableau</span>
+- <span style="color: red;">Hadoop - Hbase - HDFS - Spark - Kafka - ETL - ELT - Tableau</span>
+- <span style="color: red;">PySpark / Pymongo / Apache Airflow / Pandas</span>
 - <span style="color: blue;">GCP - AWS - GIT - K8s -  Jenkins</span>
 - <span style="color: red;">MySQL - IBM DB2 - Postgresql</span>
 - <span style="color: blue;">MongoDB - Cassandra - Cloudant</span>
