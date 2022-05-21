@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Farouk</h1>
-<h3 align="center">Interested Data Engineering</h3>
+<h3 align="center">Interested in Data Engineering</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lorddaffy&label=Profile%20views&color=0e75b6&style=flat" alt="lorddaffy" />
 		   <img src="https://badges.pufler.dev/repos/lorddaffy" alt="lorddaffy" />
@@ -28,6 +28,7 @@
 
 
 ## Projects & Repositories
+- **Project:** Frequency of repeating the word taxi in Wikipedia pages for the largest transportation companies
 - **Project:** Do Left-handed People Really Die Young?
 - **Project:** Exploring the Evolution of Linux
 - Big Data with PySpark
